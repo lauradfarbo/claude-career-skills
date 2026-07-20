@@ -148,7 +148,12 @@ Every session, regardless of how much got done:
    the next session (by this skill or a sibling skill) fast to resume.
 3. Present the file to the person and tell them plainly: keep this file
    somewhere you can bring back next time — in your Project files if you're
-   working in a Claude Project, or just re-upload it next session.
+   working in a Claude Project, or just re-upload it next session. Give
+   them the exact phrase to open with next time (e.g. "next time, just say
+   'continue my career file' and upload this, and I'll pick up from the
+   Open Threads"). Don't assume they'll infer this — a first-time user has
+   no reason to know the file needs to come back into the conversation, or
+   what to say to trigger a resume rather than a restart.
 4. If their actual goal was a downstream deliverable (CV, LinkedIn content,
    website, case study, positioning) and the file now has enough material
    for it, say so and point them to the right next skill rather than making

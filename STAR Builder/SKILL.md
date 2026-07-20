@@ -12,6 +12,16 @@ This is the first "writing" stage in the skill family; everything before it
 (`career-foundation`) is deliberately raw, and everything after it (CV,
 case studies, LinkedIn content) builds on what this skill produces.
 
+**If this is the person's first time using this skill, briefly explain what
+STAR is before diving in** — don't assume the term is familiar. One or two
+sentences is enough: "STAR stands for Situation, Task, Action, Result — a
+structure for telling a work story so it actually lands, whether that's in
+an interview, a case study, or just explaining what you did on a project.
+Most people have the facts but tell them out of order or skip the part that
+matters — STAR fixes that." Skip this explanation if the person's own
+language shows they already know the format (they use the term unprompted,
+or ask for "behavioral interview" prep specifically).
+
 Read `references/worked-example.md` before writing any stories — it shows
 the exact bar to hit: connected prose, nothing invented, specific detail
 kept intact rather than smoothed into generalities.
