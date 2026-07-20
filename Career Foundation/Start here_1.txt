@@ -1,0 +1,37 @@
+Career Foundation — Start Here
+
+WHAT THIS DOES
+Builds a structured file of your work history — roles, wins, metrics,
+skills — that the other skills in this family (star-story-builder,
+cv-builder) read from. Start here first; everything else depends on it.
+
+HOW TO INSTALL
+If you have the Claude Desktop app installed: just double-click
+career-foundation.skill and it should open directly in Claude — follow
+whatever it prompts from there.
+
+If you're using claude.ai in a browser (no desktop app):
+1. Go to Settings > Features and turn on "Code execution and file
+   creation" if it isn't already on.
+2. Go to Settings > Customize > Skills, click "+", then "+ Create skill."
+3. Upload career-foundation.skill (the file in this folder).
+4. Toggle it on.
+
+HOW TO USE IT
+Start a new conversation and say:
+
+    Let's build my career file.
+
+That's it. It'll ask if you have any existing documents (old CVs,
+reviews, decks with results, anything) before interviewing you directly —
+upload whatever you have, or say you don't have anything and it'll just
+ask you questions.
+
+This is meant to take more than one sitting. At the end of every session
+it'll tell you exactly what to save and what to say next time to pick up
+where you left off.
+
+WHAT YOU GET
+A career file you keep (download it, or keep it in a Claude Project) and
+bring back to this skill, or to star-story-builder / cv-builder, whenever
+you're ready for the next thing.

@@ -1,0 +1,31 @@
+STAR Story Builder — Start Here
+
+WHAT THIS DOES
+Turns the wins in your career file into polished STAR stories (Situation,
+Task, Action, Result) — the kind you'd actually tell out loud in an
+interview. Requires a career file from career-foundation first.
+
+HOW TO INSTALL
+If you have the Claude Desktop app installed: just double-click
+star-story-builder.skill and it should open directly in Claude — follow
+whatever it prompts from there.
+
+If you're using claude.ai in a browser (no desktop app):
+1. Go to Settings > Features and turn on "Code execution and file
+   creation" if it isn't already on.
+2. Go to Settings > Customize > Skills, click "+", then "+ Create skill."
+3. Upload star-story-builder.skill (the file in this folder).
+4. Toggle it on.
+
+HOW TO USE IT
+Bring your career file (from career-foundation) into a conversation and
+say something like:
+
+    Help me prep some interview stories from my career file.
+
+If you don't have a career file yet, it'll tell you to go build one with
+career-foundation first, rather than guessing at your background.
+
+It only turns wins into stories once they've got enough real detail — if
+something's still thin, it'll say so and flag it for a follow-up rather
+than making something up to fill the gap.

@@ -1,0 +1,38 @@
+CV Builder — Start Here
+
+WHAT THIS DOES
+Compresses your career file into CV bullets. Requires a career file from
+career-foundation first.
+
+HOW TO INSTALL
+If you have the Claude Desktop app installed: just double-click
+cv-builder.skill and it should open directly in Claude — follow whatever
+it prompts from there.
+
+If you're using claude.ai in a browser (no desktop app):
+1. Go to Settings > Features and turn on "Code execution and file
+   creation" if it isn't already on.
+2. Go to Settings > Customize > Skills, click "+", then "+ Create skill."
+3. Upload cv-builder.skill (the file in this folder).
+4. Toggle it on.
+
+HOW TO USE IT
+Bring your career file (from career-foundation) into a conversation and
+say something like:
+
+    Help me update my CV.
+
+or, for a tailored version:
+
+    Help me build a CV for this specific role. [paste the job description]
+
+If you don't have a career file yet, it'll tell you to go build one with
+career-foundation first, rather than guessing at your background.
+
+It never invents a result or number you didn't give it. If a role's still
+thin on detail, you'll get an honest scope-only bullet instead of a
+dressed-up one, and it'll flag that role for a follow-up.
+
+If you don't have an existing CV to match the format of, or your current
+one uses a two-column/sidebar layout, it defaults to a clean single-column
+layout that's easier for applicant tracking systems to read correctly.
