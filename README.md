@@ -9,22 +9,19 @@ from scratch each time.
 
 If you've never used this before, here's the fastest path in:
 
-1. **Enable code execution.** In Claude.ai, go to **Settings → Features**
-   and turn on **Code execution and file creation**. Skills need this to
-   run.
-2. **Install each skill.** If you have the **Claude Desktop app**, just
+1. **Install each skill.** If you have the **Claude Desktop app**, just
    double-click each `.skill` file after downloading it — it opens
    directly in Claude and installs from there. If you're on **browser-only
    claude.ai**, go to **Settings → Customize → Skills**, click **+**, then
    **+ Create skill**, and upload each `.skill` file instead. Either way,
    do this once per skill — `career-foundation`, `star-story-builder`,
    `cv-builder` — and toggle each one on.
-3. **(Optional, recommended) Create a Project** — a normal Claude Project,
+2. **(Optional, recommended) Create a Project** — a normal Claude Project,
    separate from the skills upload above — called something like "Career
    Builder." Skills work in any conversation once uploaded, but a
    dedicated Project gives you one place to keep your career file and
    revisit past sessions, rather than hunting through unrelated chats.
-4. **Start a conversation and say:** *"Let's build my career file."* You
+3. **Start a conversation and say:** *"Let's build my career file."* You
    don't need to know which skill does what, or that there even are three
    of them — that first line is enough to kick off `career-foundation`,
    and everything downstream will prompt you toward the right skill when
